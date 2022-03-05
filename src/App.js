@@ -8,7 +8,6 @@ import Login from "./components/Logueo/Login"
 import DashBoard from "./components/Admin/DashBoard"
 import LoginOrHome from "./components/Intermedios/LoginOrHome"
 import SearchPage from './components/General/SearchPage';
-import { Counter } from './features/counter/Counter';
 import {
   BrowserRouter,
   Route, 
