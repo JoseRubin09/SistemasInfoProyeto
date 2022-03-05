@@ -2,8 +2,8 @@
 
 ```bash
     npm install
+    npm start
 ```
-```npm start```
 
 Home (Faltan los banners)
 Header (Tiene vista para cada Roll (visitante, usuario, admin) )
