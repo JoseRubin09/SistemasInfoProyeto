@@ -1,7 +1,9 @@
 ##Instrucciones para levantar el proyecto##
-npm install
-npm start
 
+```bash
+    npm install
+```
+```npm start```
 
 Home (Faltan los banners)
 Header (Tiene vista para cada Roll (visitante, usuario, admin) )
